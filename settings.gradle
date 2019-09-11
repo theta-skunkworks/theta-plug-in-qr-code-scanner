@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='THETA Plug-in QR Code Scanner'
