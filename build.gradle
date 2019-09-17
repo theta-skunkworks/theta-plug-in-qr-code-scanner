@@ -15,7 +15,7 @@ allprojects {
     repositories {
         google()
         jcenter()
-        
+        maven { url 'https://github.com/ricohapi/theta-plugin-library/raw/master/repository' }
     }
 }
 
